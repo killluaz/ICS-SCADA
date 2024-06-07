@@ -41,10 +41,6 @@ Your contributions are not only welcome but essential to keep this project valua
 
 [MIT License](https://opensource.org/licenses/MIT)
 
-## Contact
-
-For any queries or further discussions, feel free to contact the project maintainers at alhasawi@gmail.com
-
 ---
 
 This project is not affiliated with Shodan, Censys, ZoomEye, Google, or FOOFA. All product names, logos, and brands are property of their respective owners. Use of these names, logos, and brands does not imply endorsement.
