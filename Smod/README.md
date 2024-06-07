@@ -1,3 +1,4 @@
+#Agradecimiento a https://github.com/theralfbrown/smod-1/tree/master/System/Lib/scapy
 #smod
 smod is a modular framework with every kind of diagnostic and offensive feature you could need in order to pentest modbus protocol. It is a full Modbus protocol implementation using Python and Scapy. This software could be run on Linux/OSX under python 2.7.x. 
 
