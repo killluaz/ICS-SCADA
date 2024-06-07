@@ -1,6 +1,7 @@
 ## ICS/SCADA 
 
-Bienvenidos al repositorio !
+Bienvenidos al repositorio!
+
 Este Repositorio está diseñado para contener diferentes recursos relacionados a los sistemas de control industrial (ICS) y sistemas de supervisión, control y adquisición de datos (SCADA).
 
 ## :wrench: Herramientas y Scripts
